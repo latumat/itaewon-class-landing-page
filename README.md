@@ -1,3 +1,2 @@
 # itaewon class landing page
-
-[Demo](https://latumat.github.io/Project-Landing-Page/)
+[demo](https://latumat.github.io/itaewon-class-landing-page/)
